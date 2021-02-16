@@ -9,7 +9,7 @@ import {
   clearDisplay,
   setMemory,
   addMemory,
-  clearMemory,
+  clearMemory,z
 } from './actions'
 
 import TotalDisplay from './components/TotalDisplay'
